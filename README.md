@@ -1,6 +1,10 @@
+// Validation Code in Rust
+fn main() {
+    let name = "ishaaq0001";
+    println!("This is {:?}'s Github", name);
+}
 
-Discord ishaaq0001
-<br>
+
 
 
 <!-- # ⭕ Tic-Tac-Toe -->
