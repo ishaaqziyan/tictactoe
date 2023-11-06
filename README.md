@@ -1,13 +1,12 @@
 
 // Validation Code in Rust
 <br>
-/*
-fn main() {
-    let name = "ishaaq0001";
-    println!("This is {:?}'s Github", name);
-}
+ <br>       fn main() {
+  <br>          let name = "ishaaq0001";
+ <br>          println!("This is {:?}'s Github", name);
+ <br>     }
 
-*/
+
 
 <!-- # ⭕ Tic-Tac-Toe -->
 
