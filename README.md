@@ -3,7 +3,7 @@
 <br>
  <br>       fn main() {
   <br>          let name = "ishaaq0001";
- <br>          println!("This is {:?}'s Github", name);
+ <br>          println!("This is {:?}'s Discord UserName", name);
  <br>     }
 
 
